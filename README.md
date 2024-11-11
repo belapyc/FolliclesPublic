@@ -1,5 +1,5 @@
 
-# Follicullar growth simulator
+# Follicular growth simulator
 
 This project involves the analysis and prediction of patient profiles using machine learning models, specifically focusing on follicle data. The project utilizes Python and various libraries for data manipulation, visualization, and model training. **Please note that the data used in this project is simulated and not real patient data.**
 
